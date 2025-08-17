@@ -15,7 +15,9 @@ Building technology that connects people to what they need — whether it’s a 
 An AI-powered platform bridging homeowners with verified service providers:
 
 ✅ Smart matching using location extraction and NLP
+
 ✅ Streamlined onboarding with dynamic forms and document verification
+
 ✅ Full-stack architecture (Next.js + FastAPI + PostgreSQL)
 
 🌱 Current Interests

@@ -2,6 +2,7 @@
 Full-Stack Developer | AI Enthusiast | Problem-Solver
 
 Building technology that connects people to what they need — whether it’s a trusted home service provider, a seamless onboarding experience, or an AI-powered solution that just works.
+
 🔨 What I Do
 
     Craft intuitive web apps with React, Next.js, and Tailwind CSS

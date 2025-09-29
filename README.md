@@ -8,7 +8,7 @@ Building technology that connects people to what they need — whether it’s a 
 - Craft intuitive web apps with React, Next.js, and Tailwind CSS
 - Design robust backends using Python (FastAPI) and PostgreSQL
 - Integrate AI smartly (like Gemini for NLP and recommendations)
-- Solve real-world problems — because finding a plumber at 2 AM shouldn’t be harder than ordering pizza
+- Solve real-world problems
 
 🚀 Featured Project: HomeHelp Connect
 

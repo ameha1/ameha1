@@ -1,4 +1,3 @@
-<div align="center">
 👋 Hello, I'm Ameha Seyoum
 
 A Passionate Full-Stack Developer & Software Engineer
@@ -6,28 +5,32 @@ A Passionate Full-Stack Developer & Software Engineer
 Addis Ababa, Ethiopia | Open to Collaborations & Opportunities
 
 https://img.shields.io/badge/Email-amehaseyoum3456%2540gmail.com-D14836?style=flat&logo=gmail&logoColor=white
+
 https://img.shields.io/badge/LinkedIn-Ameha%2520Seyoum-0077B5?style=flat&logo=linkedin&logoColor=white
+
 https://img.shields.io/badge/Portfolio-Coming%2520Soon-FF7139?style=flat&logo=firefox&logoColor=white
-</div>
+
+
 🚀 About Me
 
 I'm a recent Software Engineering graduate from Adama Science and Technology University, passionate about crafting scalable and impactful software solutions. I thrive at the intersection of logic and creativity, with a strong foundation in full-stack development and a keen interest in problem-solving.
 
 I am equipped with industry-relevant knowledge in software development methodologies, databases, APIs, and cloud technologies. I enjoy working in collaborative, agile teams and am always eager to learn new technologies and tackle challenging problems.
 
-    🔭 I’m currently sharpening my skills in Cloud Technologies and System Design.
+ 🔭 I’m currently sharpening my skills in Cloud Technologies and System Design.
 
-    🌱 I’m exploring Game Development with the Godot Engine as a creative outlet.
+ 🌱 I’m exploring Game Development with the Godot Engine as a creative outlet.
 
-    👯 I’m looking to collaborate on innovative Open-Source Projects.
+ 👯 I’m looking to collaborate on innovative Open-Source Projects.
 
-    💼 I’m seeking opportunities to contribute to cutting-edge projects as a Software Engineer.
+ 💼 I’m seeking opportunities to contribute to cutting-edge projects as a Software Engineer.
 
-    💬 Ask me about Python, JavaScript, React, Node.js, or Godot.
+ 💬 Ask me about Python, JavaScript, React, Node.js, or Godot.
 
-    ⚡ Fun fact: I love deconstructing game mechanics and thinking about how they are implemented in code.
+ ⚡ Fun fact: I love deconstructing game mechanics and thinking about how they are implemented in code.
 
-🛠️ Technologies & Skills
+ 🛠️ Technologies & Skills
+ 
 Programming Languages
 
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -55,20 +58,16 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&lay
 
 I'm passionate about game development as a hobby! I use Godot Engine to bring my ideas to life, focusing on:
 
-    Scripting & Programming in GDScript.
-
-    Game Design & Level Creation.
-
-    Gameplay Mechanics & Visual Aesthetics.
+- Scripting & Programming in GDScript.
+- Game Design & Level Creation.
+- Gameplay Mechanics & Visual Aesthetics.
 
 Check out my pinned repositories below to see some of my game projects!
-📫 Let's Connect!
 
+📫 Let's Connect!
 I'm always open to discussing technology, collaboration, or new opportunities.
 
-    Email: amehaseyoum3456@gmail.com
-    LinkedIn : www.linkedin.com/in/ameha-seyoum-a8706a374/
+- Email: amehaseyoum3456@gmail.com
+- LinkedIn : www.linkedin.com/in/ameha-seyoum-a8706a374/
 
-    LinkedIn: Ameha Seyoum
 
-<div align="center">

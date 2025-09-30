@@ -4,7 +4,7 @@ A Passionate Full-Stack Developer & Software Engineer
 
 Addis Ababa, Ethiopia | Open to Collaborations & Opportunities
 
-https://img.shields.io/badge/Email-amehaseyoum3456%2540gmail.com-D14836?style=flat&logo=gmail&logoColor=white
+[https://img.shields.io/badge/Email-amehaseyoum3456%2540gmail.com-D14836?style=flat&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-amehaseyoum3456%2540gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 
 https://img.shields.io/badge/LinkedIn-Ameha%2520Seyoum-0077B5?style=flat&logo=linkedin&logoColor=white
 

@@ -1,32 +1,74 @@
-👋 Hi, I'm Ameha Seyoum
-Full-Stack Developer | AI Enthusiast | Problem-Solver
+<div align="center">
+👋 Hello, I'm Ameha Seyoum
 
-Building technology that connects people to what they need — whether it’s a trusted home service provider, a seamless onboarding experience, or an AI-powered solution that just works.
+A Passionate Full-Stack Developer & Software Engineer
 
-🔨 What I Do
+Addis Ababa, Ethiopia | Open to Collaborations & Opportunities
 
-- Craft intuitive web apps with React, Next.js, and Tailwind CSS
-- Design robust backends using Python (FastAPI) and PostgreSQL
-- Integrate AI smartly (like Gemini for NLP and recommendations)
-- Solve real-world problems
+https://img.shields.io/badge/Email-amehaseyoum3456%2540gmail.com-D14836?style=flat&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-Ameha%2520Seyoum-0077B5?style=flat&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-Coming%2520Soon-FF7139?style=flat&logo=firefox&logoColor=white
+</div>
+🚀 About Me
 
-🚀 Featured Project: HomeHelp Connect
+I'm a recent Software Engineering graduate from Adama Science and Technology University, passionate about crafting scalable and impactful software solutions. I thrive at the intersection of logic and creativity, with a strong foundation in full-stack development and a keen interest in problem-solving.
 
-An AI-powered platform bridging homeowners with verified service providers:
+I am equipped with industry-relevant knowledge in software development methodologies, databases, APIs, and cloud technologies. I enjoy working in collaborative, agile teams and am always eager to learn new technologies and tackle challenging problems.
 
-  ✅ Smart matching using location extraction and NLP
-  ✅ Streamlined onboarding with dynamic forms and document verification
-  ✅ Full-stack architecture (Next.js + FastAPI + PostgreSQL)
+    🔭 I’m currently sharpening my skills in Cloud Technologies and System Design.
 
-🌱 Current Interests
+    🌱 I’m exploring Game Development with the Godot Engine as a creative outlet.
 
-- AI/ML for practical applications
-- Optimizing user flows (forms, dashboards, etc.)
-- Open-source collaborations
+    👯 I’m looking to collaborate on innovative Open-Source Projects.
 
-💬 Let’s Talk About
-  
-Full-stack development, AI integrations, or UX design
-Your next project idea!
+    💼 I’m seeking opportunities to contribute to cutting-edge projects as a Software Engineer.
 
-📫 Reach me: amehaseyoum02@gmail.com | www.linkedin.com/in/ameha-seyoum-a8706a374
+    💬 Ask me about Python, JavaScript, React, Node.js, or Godot.
+
+    ⚡ Fun fact: I love deconstructing game mechanics and thinking about how they are implemented in code.
+
+🛠️ Technologies & Skills
+Programming Languages
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+Frameworks & Libraries
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+Tools & Practices
+
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+![Agile](https://img.shields.io/badge/Agile Methodology-009688?style=for-the-badge)
+https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white
+📈 GitHub Stats
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical
+</div>
+🎮 Game Development Corner
+
+I'm passionate about game development as a hobby! I use Godot Engine to bring my ideas to life, focusing on:
+
+    Scripting & Programming in GDScript.
+
+    Game Design & Level Creation.
+
+    Gameplay Mechanics & Visual Aesthetics.
+
+Check out my pinned repositories below to see some of my game projects!
+📫 Let's Connect!
+
+I'm always open to discussing technology, collaboration, or new opportunities.
+
+    Email: amehaseyoum3456@gmail.com
+    LinkedIn : www.linkedin.com/in/ameha-seyoum-a8706a374/
+
+    LinkedIn: Ameha Seyoum
+
+<div align="center">

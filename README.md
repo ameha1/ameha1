@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=4F46E5&center=true&vCenter=true&lines=Hey+there!+I'm+Ameha+Seyoum;Full-Stack+Developer;Software+Engineer;Game+Dev+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=4F46E5&center=true&vCenter=true&lines=Hi+there!+I'm+Ameha+Seyoum;Full-Stack+Developer;Software+Engineer;Game+Dev+Enthusiast" />
 </h1>
 
 <p align="center">
@@ -98,7 +98,7 @@ I'm passionate about building games using **Godot Engine**. I experiment with:
 ## 📫 Let's Connect  
 I'm always open to networking, collaboration, and opportunities.
 
-- 📧 **Email:** amehaseyoum3456@gmail.com  
+- 📧 **Email:** amehaseyoum02@gmail.com  
 - 🔗 **LinkedIn:** www.linkedin.com/in/ameha-seyoum-a8706a374/
 
 ---

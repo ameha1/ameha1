@@ -114,7 +114,7 @@ An AI-powered Telegram bot that handles customer queries and seamlessly escalate
 ### 🏡 HomeHelp Connect
 A platform connecting homeowners with local service providers for repairs, maintenance, and home care.
 
-**Stack:** Node.js · React · PostgreSQL  
+**Stack:** FastAPI · React · PostgreSQL  
 **Scope:** Provider matching, booking system, reviews
 
 </td>
